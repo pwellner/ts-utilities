@@ -1,0 +1,9 @@
+{
+  "name": "ts-utilities",
+  "version": "0.0.1",
+  "description": "Simple utilities used in more than one repo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre Wellner",
+}
