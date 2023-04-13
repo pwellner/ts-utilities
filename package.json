@@ -1,7 +1,11 @@
 {
-  "name": "ts-utilities",
+  "name": "@pwellner/ts-utilities",
   "version": "0.0.2",
-  "description": "Simple utilities used in more than one repo",
+    "description": "Simple utilities used in more than one repo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pwellner/ts-utilities.git"
+    },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
